@@ -1,0 +1,37 @@
+body {
+    background-color: #f8f9fa;
+    color: #495057;
+  }
+  .jumbotron {
+    background-color: #61affe;
+    color: #fff;
+    padding: 3rem;
+    border-radius: 10px;
+    margin-bottom: 30px;
+  }
+  h2 {
+    color: #61affe;
+  }
+  p {
+    font-size: 1.25rem;
+  }
+  .about-me,
+  .custom-classes {
+    margin-top: 50px;
+  }
+  .about-me h2,
+  .custom-classes h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #61affe;
+  }
+  .about-me p,
+  .custom-classes p {
+    font-size: 1.1rem;
+    color: #6c757d;
+  }
+  .nav-link{
+    background-color: #61affe;
+    margin: 5px;
+    border-radius: 5%;
+  }
